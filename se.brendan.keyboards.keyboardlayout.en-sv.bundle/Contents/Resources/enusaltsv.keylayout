@@ -371,7 +371,7 @@
       <key code="31" action="a060"/>
       <key code="35" action="a061"/>
       <key code="33" action="a062"/>
-      <key code="30" action="a059"/>
+      <key code="30" output="«"/>
       <key code="1" action="a064"/>
       <key code="2" action="a065"/>
       <key code="3" output="ƒ"/>
@@ -456,8 +456,8 @@
       <key code="10" output="±"/>
       <key code="18" output="⁄"/>
       <key code="19" output="€"/>
-      <key code="20" output=""/>
-      <key code="21" output=""/>
+      <key code="20" output="‹"/>
+      <key code="21" output="›"/>
       <key code="23" output="ﬁ"/>
       <key code="22" output="ﬂ"/>
       <key code="26" output="‡"/>
@@ -477,7 +477,7 @@
       <key code="31" action="a075"/>
       <key code="35" output="∏"/>
       <key code="33" action="a076"/>
-      <key code="30" output="¨"/>
+      <key code="30" output="»"/>
       <key code="1" action="a084"/>
       <key code="2" action="a078"/>
       <key code="3" output="Ï"/>
@@ -583,7 +583,7 @@
       <key code="31" action="a075"/>
       <key code="35" action="a061"/>
       <key code="33" action="a076"/>
-      <key code="30" action="a059"/>
+      <key code="30" output="«"/>
       <key code="1" action="a084"/>
       <key code="2" action="a078"/>
       <key code="3" output="ƒ"/>
