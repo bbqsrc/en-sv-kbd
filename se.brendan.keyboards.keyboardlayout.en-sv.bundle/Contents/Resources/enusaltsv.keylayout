@@ -1227,6 +1227,13 @@
     </action>
     <action id="a056">
       <when state="none" next="s056"/>
+      <when state="s068" output="`" next="s056"/>
+      <when state="s056" output="´"/>
+      <when state="s070" output="˜" next="s056"/>
+      <when state="s058" output="¨" next="s056"/>
+      <when state="s059" output="ˆ" next="s056"/>
+      <when state="s082" output="¯" next="s056"/>
+      <when state="s083" output="˘" next="s056"/>
     </action>
     <action id="a057">
       <when state="none" output="þ"/>
@@ -1240,6 +1247,13 @@
     </action>
     <action id="a058">
       <when state="none" next="s058"/>
+      <when state="s068" output="`" next="s058"/>
+      <when state="s056" output="´" next="s058"/>
+      <when state="s070" output="˜" next="s058"/>
+      <when state="s058" output="¨"/>
+      <when state="s059" output="ˆ" next="s058"/>
+      <when state="s082" output="¯" next="s058"/>
+      <when state="s083" output="˘" next="s058"/>
     </action>
     <action id="a059">
       <when state="s068" output="ˆ̀"/>
@@ -1247,7 +1261,7 @@
       <when state="s070" output="ˆ̃"/>
       <when state="s058" output="ˆ̈"/>
       <when state="none" next="s059"/>
-      <when state="s059" output="ˆ̂"/>
+      <when state="s059" output="ˆ"/>
       <when state="s082" output="ˆ̄"/>
       <when state="s083" output="ˆ̆"/>
     </action>
@@ -1333,6 +1347,13 @@
     </action>
     <action id="a068">
       <when state="none" next="s068"/>
+      <when state="s068" output="`"/>
+      <when state="s056" output="´" next="s068"/>
+      <when state="s070" output="˜" next="s068"/>
+      <when state="s058" output="¨" next="s068"/>
+      <when state="s059" output="ˆ" next="s068"/>
+      <when state="s082" output="¯" next="s068"/>
+      <when state="s083" output="˘" next="s068"/>
     </action>
     <action id="a069">
       <when state="none" output="ç"/>
@@ -1346,6 +1367,13 @@
     </action>
     <action id="a070">
       <when state="none" next="s070"/>
+      <when state="s068" output="`" next="s070"/>
+      <when state="s056" output="´" next="s070"/>
+      <when state="s070" output="˜"/>
+      <when state="s058" output="¨" next="s070"/>
+      <when state="s059" output="ˆ" next="s070"/>
+      <when state="s082" output="¯" next="s070"/>
+      <when state="s083" output="˘" next="s070"/>
     </action>
     <action id="a071">
       <when state="none" output="µ"/>
@@ -1452,9 +1480,23 @@
     </action>
     <action id="a082">
       <when state="none" next="s082"/>
+      <when state="s068" output="`" next="s082"/>
+      <when state="s056" output="´" next="s082"/>
+      <when state="s070" output="˜" next="s082"/>
+      <when state="s058" output="¨" next="s082"/>
+      <when state="s059" output="ˆ" next="s082"/>
+      <when state="s082" output="¯"/>
+      <when state="s083" output="˘" next="s082"/>
     </action>
     <action id="a083">
       <when state="none" next="s083"/>
+      <when state="s068" output="`" next="s083"/>
+      <when state="s056" output="´" next="s083"/>
+      <when state="s070" output="˜" next="s083"/>
+      <when state="s058" output="¨" next="s083"/>
+      <when state="s059" output="ˆ" next="s083"/>
+      <when state="s082" output="¯" next="s083"/>
+      <when state="s083" output="˘"/>
     </action>
     <action id="a084">
       <when state="none" output="ẞ"/>
