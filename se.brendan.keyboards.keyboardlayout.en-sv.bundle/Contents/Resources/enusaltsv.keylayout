@@ -365,7 +365,7 @@
       <key code="14" action="a056"/>
       <key code="15" output="®"/>
       <key code="17" action="a057"/>
-      <key code="16" output=""/>
+      <key code="16" output="¥"/>
       <key code="32" action="a058"/>
       <key code="34" action="a059"/>
       <key code="31" action="a060"/>
@@ -374,21 +374,21 @@
       <key code="30" action="a059"/>
       <key code="1" action="a064"/>
       <key code="2" action="a065"/>
-      <key code="3" output=""/>
+      <key code="3" output="ƒ"/>
       <key code="5" output="©"/>
       <key code="4" output="˙"/>
-      <key code="38" output=""/>
+      <key code="38" output="∆"/>
       <key code="40" output="˚"/>
-      <key code="37" output=""/>
+      <key code="37" output="¬"/>
       <key code="41" action="a066"/>
       <key code="39" action="a067"/>
       <key code="42" output="…"/>
       <key code="50" action="a068"/>
-      <key code="6" output=""/>
-      <key code="7" output=""/>
+      <key code="6" output="Ω"/>
+      <key code="7" output="≈"/>
       <key code="8" action="a069"/>
-      <key code="9" output=""/>
-      <key code="11" output=""/>
+      <key code="9" output="√"/>
+      <key code="11" output="∫"/>
       <key code="45" action="a070"/>
       <key code="46" action="a071"/>
       <key code="43" output="≤"/>
@@ -577,7 +577,7 @@
       <key code="14" action="a056"/>
       <key code="15" output="®"/>
       <key code="17" action="a074"/>
-      <key code="16" output=""/>
+      <key code="16" output="¥"/>
       <key code="32" action="a058"/>
       <key code="34" action="a059"/>
       <key code="31" action="a075"/>
@@ -586,21 +586,21 @@
       <key code="30" action="a059"/>
       <key code="1" action="a064"/>
       <key code="2" action="a078"/>
-      <key code="3" output=""/>
+      <key code="3" output="ƒ"/>
       <key code="5" output="©"/>
       <key code="4" output="˙"/>
-      <key code="38" output=""/>
+      <key code="38" output="∆"/>
       <key code="40" output="˚"/>
-      <key code="37" output=""/>
+      <key code="37" output="¬"/>
       <key code="41" action="a079"/>
       <key code="39" action="a080"/>
       <key code="42" output="…"/>
       <key code="50" action="a068"/>
-      <key code="6" output=""/>
-      <key code="7" output=""/>
+      <key code="6" output="Ω"/>
+      <key code="7" output="≈"/>
       <key code="8" action="a081"/>
-      <key code="9" output=""/>
-      <key code="11" output=""/>
+      <key code="9" output="√"/>
+      <key code="11" output="∫"/>
       <key code="45" action="a070"/>
       <key code="46" action="a071"/>
       <key code="43" output="≤"/>
