@@ -361,7 +361,7 @@
       <key code="27" output="–"/>
       <key code="24" output="≠"/>
       <key code="12" action="a055"/>
-      <key code="13" output="©"/>
+      <key code="13" output="∑"/>
       <key code="14" action="a056"/>
       <key code="15" output="®"/>
       <key code="17" action="a057"/>
@@ -488,7 +488,7 @@
       <key code="37" output="Ò"/>
       <key code="41" action="a079"/>
       <key code="39" action="a080"/>
-      <key code="42" output="§"/>
+      <key code="42" output="†"/>
       <key code="50" output="`"/>
       <key code="6" output="¸"/>
       <key code="7" output="˛"/>
@@ -573,7 +573,7 @@
       <key code="27" output="–"/>
       <key code="24" output="≠"/>
       <key code="12" action="a073"/>
-      <key code="13" output="©"/>
+      <key code="13" output="∑"/>
       <key code="14" action="a056"/>
       <key code="15" output="®"/>
       <key code="17" action="a074"/>
