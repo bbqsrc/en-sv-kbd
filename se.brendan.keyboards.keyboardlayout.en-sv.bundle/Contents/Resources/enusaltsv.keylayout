@@ -454,38 +454,38 @@
     <keyMap index="4">
       <key code="0" action="a077"/>
       <key code="10" output="±"/>
-      <key code="18" output=""/>
+      <key code="18" output="⁄"/>
       <key code="19" output="€"/>
       <key code="20" output=""/>
       <key code="21" output=""/>
-      <key code="23" output=""/>
-      <key code="22" output=""/>
-      <key code="26" output=""/>
+      <key code="23" output="ﬁ"/>
+      <key code="22" output="ﬂ"/>
+      <key code="26" output="‡"/>
       <key code="28" output="°"/>
       <key code="25" output="·"/>
-      <key code="29" output=""/>
+      <key code="29" output="∅"/>
       <key code="27" output="—"/>
       <key code="24" output="±"/>
       <key code="12" action="a073"/>
-      <key code="13" output=""/>
+      <key code="13" output="ˇ"/>
       <key code="14" output="´"/>
-      <key code="15" output=""/>
+      <key code="15" output="‰"/>
       <key code="17" action="a074"/>
-      <key code="16" output=""/>
+      <key code="16" output="Á"/>
       <key code="32" output="¨"/>
       <key code="34" output="ˆ"/>
       <key code="31" action="a075"/>
       <key code="35" output="∏"/>
       <key code="33" action="a076"/>
       <key code="30" output="¨"/>
-      <key code="1" output=""/>
+      <key code="1" action="a084"/>
       <key code="2" action="a078"/>
-      <key code="3" output=""/>
+      <key code="3" output="Ï"/>
       <key code="5" output="˝"/>
-      <key code="4" output=""/>
-      <key code="38" output=""/>
-      <key code="40" output=""/>
-      <key code="37" output=""/>
+      <key code="4" output="Ó"/>
+      <key code="38" output="Ô"/>
+      <key code="40" output=""/>
+      <key code="37" output="Ò"/>
       <key code="41" action="a079"/>
       <key code="39" action="a080"/>
       <key code="42" output="§"/>
@@ -493,10 +493,10 @@
       <key code="6" output="¸"/>
       <key code="7" output="˛"/>
       <key code="8" action="a081"/>
-      <key code="9" output=""/>
-      <key code="11" output=""/>
+      <key code="9" output="◊"/>
+      <key code="11" output="ı"/>
       <key code="45" output="˜"/>
-      <key code="46" output=""/>
+      <key code="46" output="Â"/>
       <key code="43" action="a082"/>
       <key code="47" action="a083"/>
       <key code="44" output="¿"/>
@@ -584,7 +584,7 @@
       <key code="35" action="a061"/>
       <key code="33" action="a076"/>
       <key code="30" action="a059"/>
-      <key code="1" action="a064"/>
+      <key code="1" action="a084"/>
       <key code="2" action="a078"/>
       <key code="3" output="ƒ"/>
       <key code="5" output="©"/>
@@ -1455,6 +1455,16 @@
     </action>
     <action id="a083">
       <when state="none" next="s083"/>
+    </action>
+    <action id="a084">
+      <when state="none" output="ẞ"/>
+      <when state="s068" output="ẞ̀"/>
+      <when state="s056" output="ẞ́"/>
+      <when state="s070" output="ẞ̃"/>
+      <when state="s058" output="ẞ̈"/>
+      <when state="s059" output="ẞ̂"/>
+      <when state="s082" output="ẞ̄"/>
+      <when state="s083" output="ẞ̆"/>
     </action>
   </actions>
   <terminators>
